@@ -404,6 +404,7 @@ form {
   display: flex;
   align-items: center;
   justify-content: center;
+  cursor: pointer;
 }
 
 .applicationDetailHeader {
@@ -561,9 +562,8 @@ select {
 .toastProgress {
   display: none;
 }
-.logout{
-     width: 100%;
-
+.logout {
+  width: 100%;
 }
 
 @media screen and (max-width: 1200px) {
