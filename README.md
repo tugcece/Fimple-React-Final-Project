@@ -10,3 +10,4 @@ u:kodluyoruz@gmail.com
 p:bootcamp109
 
 ### `Live`
+https://65933ff02414b213c823f691--zippy-manatee-5b9f99.netlify.app/
